@@ -22,7 +22,7 @@ nav {
   padding: 1%;
   outline: 1px red;
   background-color: green;
-  background-image: url('../docs/pictures/green-grass-field-background.jpg');
+  background-image: url('pictures\green-grass-field-background.jpg');
   background-size: 73%;
 }
 
