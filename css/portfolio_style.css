@@ -1,6 +1,6 @@
 body{
   background-color: #b97e46;
-  background-image: url('../pictures/green-grass-field-background.jpg');
+  background-image: url(../portfolio/pictures/surface.jpg);
   background-size: 100%;
 
 }
@@ -22,7 +22,7 @@ nav {
   padding: 1%;
   outline: 1px red;
   background-color: green;
-  background-image: url('../portfolio/pictures/green-grass-field-background.jpg');
+  background-image: url('pictures\green-grass-field-background.jpg');
   background-size: 73%;
 }
 
@@ -56,4 +56,7 @@ img {
 }
 li{
   background-color: yellow;
+}
+.aboutme{
+  background-color: #FCF5E5;
 }
