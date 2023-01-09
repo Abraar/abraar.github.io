@@ -1,3 +1,9 @@
+body{
+  background-color: #b97e46;
+  background-image: url('../portfolio/pictures/surface.jpg');
+  background-size: 100%;
+
+}
 .inline-block {
   display: inline-block;
   vertical-align: top;
@@ -15,11 +21,15 @@ nav {
   width: 73%;
   padding: 1%;
   outline: 1px red;
+  background-color: green;
+  background-image: url('../portfolio/pictures/green-grass-field-background.jpg');
+  background-size: 73%;
 }
 
 ul {
   width: 50%;
   margin-left: auto;
+ 
 }
 
 .heroimg {
@@ -39,4 +49,14 @@ footer {
 }
 .test {
   outline: 1px red;
+}
+img {
+  max-width:50%;
+          height:auto;
+}
+li{
+  background-color: yellow;
+}
+.aboutme{
+  background-color: #FCF5E5;
 }
